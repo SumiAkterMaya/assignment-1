@@ -1,0 +1,177 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    padding: 14px;
+}
+
+.text {
+    text-decoration: none;
+}
+
+.up-text {
+    width: 500px;
+    font-weight: 700;
+    margin-left: 60%;
+    float: left;
+}
+
+h1 {
+    color: midnightblue;
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+.font {
+    color: midnightblue;
+}
+
+p {
+    font-size: 16px;
+    color: slategrey;
+}
+
+h4 {
+    color: midnightblue;
+    font-size: 20px;
+}
+
+h5 {
+    color: slategrey;
+}
+
+.hire-me-btn {
+    margin-top: 50px;
+}
+
+.highlight {
+    color: rgb(168, 86, 100);
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, red, rgb(214, 132, 146));
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 1%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+section {
+    height: 500px;
+    margin-left: 5%;
+    padding-bottom: 100px;
+    padding-top: 30px;
+}
+
+.project {
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.imag {
+    width: 40%;
+}
+
+.work {
+    float: left;
+    width: 26%;
+    border-radius: 15px;
+    box-shadow: 5px 5px 20px burlywood;
+    text-align: justify;
+    height: 250px;
+}
+
+.work img {
+    width: 90%;
+    margin: 3% 5%;
+}
+
+.font-align {
+    margin: 4%;
+}
+
+.big-sector {
+    text-align: center;
+    width: 100%;
+    margin: 0px;
+}
+
+.back-color {
+    background-color: beige;
+    margin: 0px;
+}
+
+footer {
+    text-align: center;
+}
+
+.footer-p {
+    text-decoration: none;
+    color: midnightblue;
+    font-size: 30px;
+}
+
+.lower-part img {
+    height: 100%;
+    width: 25%;
+}
+
+.icon {
+    padding-top: 10px;
+    float: left;
+}
+
+.lower-part {
+    margin-left: 36%;
+}
+
+.blue-pic {
+    background-image: url(blue.png);
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: center;
+}
+
+.white-line {
+    font-size: 40px;
+    color: white;
+    font-weight: 800;
+}
+
+#chat {
+    padding-top: 10%;
+}
+
+.chat-btn {
+    float: right;
+    margin-right: 25%;
+}
+
+.white-line {
+    margin-left: 20%;
+}
